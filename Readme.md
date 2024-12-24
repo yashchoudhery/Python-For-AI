@@ -1,6 +1,7 @@
 For creating default environment the command is 
 ----->conda create -p venvname python==3.10<--------
 ------>python -m venv insidefoldername<---------  # this command for make virtual environment using python command
+
 ----------------------------------------------------------
 
 After Creating of Environment we need to activate the environment, for that we need to write a coomand 
